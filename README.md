@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Lovedting
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++ and matlab
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Lovedting,who graduated from mathematics department.
+- 👀 I’m interested in C++.
+- 🌱 I’m currently learning C++ and matlab.
+- 💞️ I’m looking to collaborate on mathematics models and C++ programs
 - 📫 How to reach me ...
 
 <!---
